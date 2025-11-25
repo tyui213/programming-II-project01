@@ -17,6 +17,7 @@ void print_rect(RECT r) {
     );
 }
 
+
 int main(void) {
     RECT my_rect;
 
